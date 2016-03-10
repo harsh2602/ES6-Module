@@ -4,7 +4,7 @@ This basic mortgage calculator is developed to understand the basics of JavaScri
 
 Features made use are:
 
-- Setup Babel
+- Babel
 - let
 - Object Destructuring
 - Arrow Functions
